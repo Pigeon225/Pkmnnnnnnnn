@@ -1,0 +1,12 @@
+Stage1
+Fraxure
+100
+Dragon
+C:/Users/Home-PC/Desktop/Java/Pkmn/src/main/resources/last_stage.txt
+1 / Sharp Fang / 30, FM / Dragon Claw / 60
+-
+-
+2
+Sword & Shield—Brilliant Stars
+F
+Голубев/Константин/Павлович/БСБО-06-23

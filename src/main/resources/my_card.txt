@@ -1,0 +1,12 @@
+Stage2
+Haxorus
+170
+Dragon
+C:/Users/Home-PC/Desktop/Java/Pkmn/src/main/resources/previous_stage.txt
+1 / Slash / 60, FM / Wild Axe / 160
+-
+-
+2
+Sword & Shield—Brilliant Stars
+F
+Голубев/Константин/Павлович/БСБО-06-23
